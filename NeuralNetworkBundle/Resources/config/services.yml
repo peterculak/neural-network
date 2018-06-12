@@ -1,0 +1,9 @@
+services:
+#  wfo.compliance_bundle.display_update_volume_form_service:
+#    class: Wfo\ComplianceBundle\Service\DisplayUpdateVolumeFormService
+#    arguments:
+#      - '@twig'
+#      - '@form.factory'
+#      - '@router'
+#      - '@wfo.component.compliance.payment_volume_calculator'
+#      - '@wfo.component.rate.backoffice_fx_converter'
